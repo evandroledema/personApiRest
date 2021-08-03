@@ -1,5 +1,13 @@
 # personApiRest
-This app is a java app that uses the concepts of rest api
 
+This project is a small company system for managing people through  a API REST, created from Spring Boot.
 
-This API REST is a people manager system that uses Spring Boot and HEROKU.
+- The initial project setup was made with Spring Boot Initialzr.
+- This project uses standard REST architectural.
+- Finally it was implemented into a cloud system through HEROKU.
+
+To execute
+
+*mvn spring-boot:run*
+
+*http://localhost:8080/api/v1/people*
